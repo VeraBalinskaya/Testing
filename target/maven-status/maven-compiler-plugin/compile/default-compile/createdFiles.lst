@@ -7,4 +7,5 @@ com/crm/qa/base/TestBase.class
 com/crm/qa/pages/DealsPage.class
 com/crm/qa/pages/TasksPage.class
 com/crm/qa/pages/ContactsPage.class
+com/crm/qa/pages/ClientsPage.class
 com/crm/qa/util/TestUtil.class

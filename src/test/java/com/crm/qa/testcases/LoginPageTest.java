@@ -44,7 +44,7 @@ public class LoginPageTest extends TestBase{
 	}
 	
 	
-	@Test(priority=3)
+	@Test(priority=3, enabled=false )
 	public void loginTest() {
 		
 		homePage = loginPage.login(prop.getProperty("username"), prop.getProperty("password")); 
